@@ -128,8 +128,7 @@ Removed proxy features that could encode sensitive attributes:
 
 ## Usage Instructions
 
-### Prerequisites
-1. Clone the repository:
+### How to run
    ```bash
    > git clone https://github.com/RovishKataria/CS698Y
    
